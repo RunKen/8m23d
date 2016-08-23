@@ -7,3 +7,5 @@ git commit -m ""  //提交文件并说明
 
 git status  //查看仓库情况
 git diff   //查看修改内容
+
+git log  //查看历史纪录
