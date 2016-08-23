@@ -1,2 +1,9 @@
 test
 add a new line
+
+---------------------------------
+git add  //添加file
+git commit -m ""  //提交文件并说明
+
+git status  //查看仓库情况
+git diff   //查看修改内容
